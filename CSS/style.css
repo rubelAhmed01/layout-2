@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    overflow: hidden;
+}
+.header-logo{
+    background-color: cadetblue;
+    width: 20%;
+    text-align: center;
+    height: 40px;
+    float: left;
+
+}
+nav{
+    background-color: cornflowerblue;
+    width: 80%;
+    text-align: center;
+    height: 40px;
+    float: right;
+    
+}
+.header-banner{
+    background-color: crimson;
+    height: 100px;
+    text-align: center;
+
+}
+.blocks{
+    overflow: hidden;
+}
+.left-block{
+    background-color: darkgoldenrod;
+    width: 25%;
+    height: 500px;
+    float: left;
+    text-align: center;
+
+}
+.center-block{
+    background-color: gray;
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+
+}
+.center-top{
+    background-color: gray;
+    height: 20%;
+    
+}
+.center-middle{
+    background-color: greenyellow;
+    height: 60%;
+    overflow: hidden;
+}
+.Middle-left{
+    background-color: darkviolet;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.Middle-right{
+    background-color: deeppink;
+    width: 50%;
+    float: left;
+    height: 100%;
+
+}
+.center-bottom{
+    background-color: lime;
+    height: 20%;
+}
+.right-block{
+    background-color: darkolivegreen;
+    width: 25%;
+    height: 500px;
+    float: left;
+    text-align: center;
+
+}
+footer{
+    background-color: lightslategrey;
+    height: 100px;
+    text-align: center;
+}
